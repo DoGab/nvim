@@ -56,4 +56,7 @@ return {
       require("gitsigns").setup()
     end,
   },
+  {
+    "github/copilot.vim", lazy = false,
+  },
 }
